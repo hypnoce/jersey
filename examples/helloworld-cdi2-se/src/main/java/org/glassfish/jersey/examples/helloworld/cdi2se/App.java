@@ -57,6 +57,7 @@ public class App {
     private static final URI BASE_URI = URI.create("http://localhost:8080/base/");
     public static final String ROOT_HELLO_PATH = "helloworld";
     public static final String ROOT_COUNTER_PATH = "counter";
+    public static final String ROOT_URI_PATH = "uri";
 
     public static void main(String[] args) {
         try {
