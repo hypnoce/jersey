@@ -102,6 +102,7 @@
         <module>jersey-2673</module>
         <module>jersey-2689</module>
         <module>jersey-2704</module>
+        <module>jersey-3621</module>
         <module>jersey-2776</module>
         <module>jersey-2794</module>
         <module>jersey-2846</module>
